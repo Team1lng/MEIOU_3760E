@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/built-in.o :=  /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL   -r -o drivers/watchdog/built-in.o drivers/watchdog/watchdog.o drivers/watchdog/ak_top_wdt.o 

@@ -1,0 +1,44 @@
+
+
+=============Transc Information =============
+Print Time: 2024-06-13 15:02:44
+
+[15:02:44]GetLastError
+[15:02:44]USBName:E, idex:4, attachUSB_state:1
+[15:02:45]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-06-13 16:29:11
+
+[16:29:11]GetLastError
+[16:29:12]USBName:E, idex:4, attachUSB_state:1
+[16:29:13]NULL
+[16:29:13]GetLastError
+[16:29:13]USBName:E, idex:4, attachUSB_state:1
+[16:29:14]NULL
+[16:30:27]BT_CommitTransc fail
+[16:30:27]BT_DownLoadCmd fail
+[16:30:27]BT_DownLoad fail
+
+
+=============Transc Information =============
+Print Time: 2024-06-13 16:30:30
+
+[16:30:30]GetLastError
+[16:30:30]USBName:E, idex:4, attachUSB_state:1
+[16:30:31]NULL
+[16:30:31]GetLastError
+[16:30:31]USBName:E, idex:4, attachUSB_state:1
+[16:30:32]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-06-13 16:36:34
+
+[16:36:34]GetLastError
+[16:36:34]USBName:E, idex:4, attachUSB_state:1
+[16:36:35]NULL
+[16:36:35]GetLastError
+[16:36:35]USBName:E, idex:4, attachUSB_state:1
+[16:36:36]NULL

@@ -1,0 +1,1 @@
+cmd_drivers/char/built-in.o :=  /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL   -r -o drivers/char/built-in.o drivers/char/mem.o drivers/char/random.o drivers/char/ttyprintk.o drivers/char/misc.o drivers/char/agp/built-in.o 

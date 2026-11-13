@@ -1,0 +1,27 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2021-10-11 07:57:48
+
+ss g_udisk_burnnum: 0
+[07:57:48]work number = 1
+[07:57:48]burn_mode = 1, eMedium = 1
+[07:57:48]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[07:57:49]Burn_TestPCAndProducerConnectOK fail.
+[07:57:49]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2021-10-11 07:58:11
+
+ss g_udisk_burnnum: 0
+[07:58:11]work number = 1
+[07:58:11]burn_mode = 1, eMedium = 1
+[07:58:11]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[07:58:58]end work number = 0
+[07:58:58]++Burn success++
+[07:58:58]close file
+
+
+

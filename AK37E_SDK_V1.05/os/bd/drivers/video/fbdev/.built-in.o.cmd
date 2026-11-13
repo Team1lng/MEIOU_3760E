@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/built-in.o :=  /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL   -r -o drivers/video/fbdev/built-in.o drivers/video/fbdev/core/built-in.o drivers/video/fbdev/omap2/built-in.o 

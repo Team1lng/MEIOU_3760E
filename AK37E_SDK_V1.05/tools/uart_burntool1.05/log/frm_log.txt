@@ -1,0 +1,295 @@
+*********************************************************************************
+Date: 2022-7-21 [16:07:12]Open burntool.exe
+--------------------------------------------------
+[16:07:20]Clear history logfiles:
+[16:07:20]End!
+--------------------------------------------------
+[16:07:28]close file
+
+
+
+*********************************************************************************
+Date: 2022-7-21 [16:07:31]Open burntool.exe
+--------------------------------------------------
+[16:07:33]Clear history logfiles:
+[16:07:33]End!
+--------------------------------------------------
+[16:07:36]close file
+
+
+
+*********************************************************************************
+Date: 2022-7-21 [16:07:55]Open burntool.exe
+--------------------------------------------------
+[16:07:55]Clear history logfiles:
+[16:07:55]End!
+--------------------------------------------------
+[16:08:20]close file
+
+
+
+*********************************************************************************
+Date: 2022-7-21 [16:08:25]Open burntool.exe
+--------------------------------------------------
+[16:08:25]Clear history logfiles:
+[16:08:25]End!
+--------------------------------------------------
+[16:19:22]close file
+
+
+
+*********************************************************************************
+Date: 2024-1-25 [14:49:53]Open burntool.exe
+--------------------------------------------------
+[14:49:55]Clear history logfiles:
+[14:49:55]End!
+--------------------------------------------------
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!terminate
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+[17:01:50]close file
+
+
+
+*********************************************************************************
+Date: 2024-1-27 [10:32:19]Open burntool.exe
+--------------------------------------------------
+[10:32:19]Clear history logfiles:
+[10:32:19]End!
+--------------------------------------------------
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!terminate
+[11:07:26]close file
+
+
+
+*********************************************************************************
+Date: 2024-1-27 [11:07:39]Open burntool.exe
+--------------------------------------------------
+[11:07:39]Clear history logfiles:
+[11:07:39]End!
+--------------------------------------------------
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!terminate
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+[11:49:53]close file
+
+
+
+*********************************************************************************
+Date: 2024-1-27 [15:30:36]Open burntool.exe
+--------------------------------------------------
+[15:30:36]Clear history logfiles:
+[15:30:36]End!
+--------------------------------------------------
+[16:30:52]close file
+
+
+
+*********************************************************************************
+Date: 2024-1-29 [08:27:15]Open burntool.exe
+--------------------------------------------------
+[08:27:15]Clear history logfiles:
+[08:27:15]End!
+--------------------------------------------------
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+[08:42:35]close file
+
+
+
+*********************************************************************************
+Date: 2024-1-29 [08:42:50]Open burntool.exe
+--------------------------------------------------
+[08:42:50]Clear history logfiles:
+[08:42:50]End!
+--------------------------------------------------
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+[08:50:24]close file
+
+
+
+*********************************************************************************
+Date: 2024-1-29 [08:58:15]Open burntool.exe
+--------------------------------------------------
+[08:58:15]Clear history logfiles:
+[08:58:15]End!
+--------------------------------------------------
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+[10:00:17]close file
+
+
+
+*********************************************************************************
+Date: 2024-1-29 [10:53:12]Open burntool.exe
+--------------------------------------------------
+[10:53:12]Clear history logfiles:
+[10:53:12]End!
+--------------------------------------------------
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+[10:54:25]close file
+
+
+
+*********************************************************************************
+Date: 2024-1-29 [11:03:35]Open burntool.exe
+--------------------------------------------------
+[11:03:35]Clear history logfiles:
+[11:03:35]End!
+--------------------------------------------------
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+[11:11:33]close file
+
+
+
+*********************************************************************************
+Date: 2025-12-3 [09:43:37]Open burntool.exe
+--------------------------------------------------
+[09:43:40]Clear history logfiles:
+[09:43:40]End!
+--------------------------------------------------
+[09:43:44]close file
+
+
+
+*********************************************************************************
+Date: 2025-12-3 [09:44:31]Open burntool.exe
+--------------------------------------------------
+[09:44:31]Clear history logfiles:
+[09:44:31]End!
+--------------------------------------------------
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!terminate
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+[09:47:10]close file
+
+
+
+*********************************************************************************
+Date: 2025-12-3 [09:55:31]Open burntool.exe
+--------------------------------------------------
+[09:55:31]Clear history logfiles:
+[09:55:31]End!
+--------------------------------------------------
+BT_Start 
+BT_Start_g_workTotalnum :1 
+OnTbtnStart 
+BT_Start 
+!!sucesss
+[09:59:35]close file
+
+
+
+*********************************************************************************
+Date: 2025-12-3 [10:00:24]Open burntool.exe
+--------------------------------------------------
+[10:00:24]Clear history logfiles:
+[10:00:24]End!
+--------------------------------------------------
+[10:00:59]close file
+
+
+
+*********************************************************************************
+Date: 2026-3-10 [17:35:22]Open burntool.exe
+--------------------------------------------------
+[17:35:22]Clear history logfiles:
+[17:35:22]End!
+--------------------------------------------------
+[17:40:26]close file
+
+
+

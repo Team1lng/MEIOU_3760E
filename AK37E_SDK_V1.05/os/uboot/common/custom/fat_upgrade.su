@@ -1,0 +1,5 @@
+fat_upgrade.c:42:20:strrstr	24	static
+fat_upgrade.c:65:12:upgrade_draw_rect	32	static
+fat_upgrade.c:131:12:upgrade_file_info_pares.constprop	24	static
+fat_upgrade.c:251:12:upgrade_img_head_parse	1056	static
+fat_upgrade.c:321:12:do_fat_upgrade	168	static

@@ -1,0 +1,130 @@
+
+
+=============Transc Information =============
+Print Time: 2023-12-16 09:54:43
+
+[09:54:43]GetLastError
+[09:54:43]USBName:G, idex:6, attachUSB_state:1
+[09:54:44]NULL
+[09:54:44]GetLastError
+[09:54:44]USBName:G, idex:6, attachUSB_state:1
+[09:54:45]NULL
+[09:54:45]BT_GetRamValue num_idex
+[09:55:07]BT_GetRamValue num_idex
+[09:55:07]BT_GetRamValue num_idex
+[09:55:07]BT_GetRamValue num_idex
+[09:55:07]BT_GetRamValue num_idex
+[09:55:07]BT_GetRamValue num_idex
+[09:55:07]BT_GetRamValue num_idex
+[09:55:07]BT_GetRamValue num_idex
+[09:55:07]BT_GetRamValue num_idex
+[09:55:07]BT_GetRamValue num_idex
+[09:55:07]BT_GetRamValue fail
+[09:55:07]memcmp fail
+
+
+=============Transc Information =============
+Print Time: 2023-12-16 09:55:31
+
+[09:55:31]GetLastError
+[09:55:31]USBName:G, idex:6, attachUSB_state:1
+[09:55:32]NULL
+[09:55:32]GetLastError
+[09:55:32]USBName:G, idex:6, attachUSB_state:1
+[09:55:33]NULL
+[09:56:35]BT_CommitTransc 03 fail
+[09:56:38]BT_CommitTransc 04 fail
+[09:56:38]BT_DownLoadData  fail
+
+
+=============Transc Information =============
+Print Time: 2023-12-16 09:57:04
+
+[09:57:04]GetLastError
+[09:57:04]USBName:G, idex:6, attachUSB_state:1
+[09:57:05]NULL
+[09:57:05]GetLastError
+[09:57:05]USBName:G, idex:6, attachUSB_state:1
+[09:57:06]NULL
+[09:57:06]BT_DL_FILE_DOWNLOAD_FAIL fail
+[09:57:06]memcmp fail
+
+
+=============Transc Information =============
+Print Time: 2023-12-16 09:57:51
+
+[09:57:51]GetLastError
+[09:57:51]USBName:G, idex:6, attachUSB_state:1
+[09:57:52]NULL
+[09:57:52]GetLastError
+[09:57:52]USBName:G, idex:6, attachUSB_state:1
+[09:57:53]NULL
+[09:58:56]BT_CommitTransc fail
+[09:58:56]BT_DownLoadCmd fail
+[09:58:56]BT_DownLoad fail
+
+
+=============Transc Information =============
+Print Time: 2023-12-16 09:59:27
+
+[09:59:27]GetLastError
+[09:59:27]USBName:G, idex:6, attachUSB_state:1
+[09:59:28]NULL
+[09:59:28]GetLastError
+[09:59:28]USBName:G, idex:6, attachUSB_state:1
+[09:59:29]NULL
+[09:59:30]BT_DL_FILE_DOWNLOAD_FAIL fail
+[09:59:30]memcmp fail
+
+
+=============Transc Information =============
+Print Time: 2023-12-16 10:00:07
+
+[10:00:07]GetLastError
+[10:00:07]USBName:G, idex:6, attachUSB_state:1
+[10:00:08]NULL
+[10:00:08]GetLastError
+[10:00:08]USBName:G, idex:6, attachUSB_state:1
+[10:00:09]NULL
+[10:01:09]BT_CommitTransc 03 fail
+[10:01:12]BT_CommitTransc 04 fail
+[10:01:12]BT_DownLoadData  fail
+
+
+=============Transc Information =============
+Print Time: 2023-12-16 10:09:02
+
+[10:09:02]GetLastError
+[10:09:02]USBName:G, idex:6, attachUSB_state:1
+[10:09:03]NULL
+[10:09:03]GetLastError
+[10:09:03]USBName:G, idex:6, attachUSB_state:1
+[10:09:04]NULL
+[10:10:07]BT_CommitTransc fail
+[10:10:07]BT_DownLoadCmd fail
+[10:10:07]BT_DownLoad fail
+
+
+=============Transc Information =============
+Print Time: 2023-12-16 10:17:49
+
+[10:17:49]GetLastError
+[10:17:49]USBName:G, idex:6, attachUSB_state:1
+[10:17:50]NULL
+[10:17:50]GetLastError
+[10:17:50]USBName:G, idex:6, attachUSB_state:1
+[10:17:51]NULL
+[10:18:48]BT_CommitTransc 03 fail
+[10:18:51]BT_CommitTransc 04 fail
+[10:18:51]BT_DownLoadData  fail
+
+
+=============Transc Information =============
+Print Time: 2023-12-16 10:19:11
+
+[10:19:11]GetLastError
+[10:19:11]USBName:G, idex:6, attachUSB_state:1
+[10:19:12]NULL
+[10:19:12]GetLastError
+[10:19:12]USBName:G, idex:6, attachUSB_state:1
+[10:19:13]NULL

@@ -1,0 +1,85 @@
+
+
+=============Transc Information =============
+Print Time: 2023-10-13 08:07:14
+
+[08:07:14]GetLastError
+[08:07:14]USBName:G, idex:6, attachUSB_state:1
+[08:07:15]NULL
+[08:07:15]GetLastError
+[08:07:15]USBName:G, idex:6, attachUSB_state:1
+[08:07:16]NULL
+[08:07:17]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:08:06]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:08:15]GetLastError
+[08:08:15]USBName:G, idex:6, attachUSB_state:1
+[08:08:16]NULL
+[08:08:16]GetLastError
+[08:08:16]USBName:G, idex:6, attachUSB_state:1
+[08:08:17]NULL
+[08:08:18]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:08:42]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:08:45]GetLastError
+[08:08:45]USBName:G, idex:6, attachUSB_state:1
+[08:08:46]NULL
+[08:08:46]GetLastError
+[08:08:46]USBName:G, idex:6, attachUSB_state:1
+[08:08:47]NULL
+[08:08:47]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+
+
+=============Transc Information =============
+Print Time: 2023-10-13 08:09:14
+
+[08:09:14]GetLastError
+[08:09:14]USBName:G, idex:6, attachUSB_state:1
+[08:09:15]NULL
+[08:09:15]GetLastError
+[08:09:15]USBName:G, idex:6, attachUSB_state:1
+[08:09:16]NULL
+[08:09:17]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:09:43]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+
+
+=============Transc Information =============
+Print Time: 2023-10-13 19:31:18
+
+[19:31:18]GetLastError
+[19:31:18]USBName:E, idex:4, attachUSB_state:1
+[19:31:19]NULL
+[19:31:19]GetLastError
+[19:31:19]USBName:E, idex:4, attachUSB_state:1
+[19:31:20]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-10-13 19:31:38
+
+[19:31:38]GetLastError
+[19:31:38]USBName:E, idex:4, attachUSB_state:1
+[19:31:39]NULL
+[19:31:39]GetLastError
+[19:31:39]USBName:E, idex:4, attachUSB_state:1
+[19:31:40]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-10-13 19:32:24
+
+[19:32:24]GetLastError
+[19:32:24]USBName:E, idex:4, attachUSB_state:1
+[19:32:25]NULL
+[19:32:25]GetLastError
+[19:32:25]USBName:E, idex:4, attachUSB_state:1
+[19:32:26]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-10-13 20:38:08
+
+[20:38:08]GetLastError
+[20:38:08]USBName:E, idex:4, attachUSB_state:1
+[20:38:09]NULL
+[20:38:09]GetLastError
+[20:38:09]USBName:E, idex:4, attachUSB_state:1
+[20:38:10]NULL

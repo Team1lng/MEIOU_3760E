@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/built-in.o :=  /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL   -r -o drivers/gpu/drm/built-in.o drivers/gpu/drm/tilcdc/built-in.o drivers/gpu/drm/i2c/built-in.o drivers/gpu/drm/panel/built-in.o drivers/gpu/drm/bridge/built-in.o 

@@ -1,0 +1,22 @@
+=============Burn Information For Channel[2]=============
+Print Time: 2025-9-28 16:34:25
+
+ss g_udisk_burnnum: 0
+[16:34:25]work number = 1
+[16:34:25]burn_mode = 1, eMedium = 1
+[16:34:25]Burn_GetRegValue fail
+[16:34:25]close file
+
+
+
+=============Burn Information For Channel[2]=============
+Print Time: 2025-9-28 16:34:40
+
+ss g_udisk_burnnum: 0
+[16:34:40]work number = 1
+[16:34:40]burn_mode = 1, eMedium = 1
+[16:34:40]Burn_GetRegValue fail
+[16:34:40]close file
+
+
+

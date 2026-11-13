@@ -1,0 +1,22 @@
+
+
+=============Transc Information =============
+Print Time: 2023-12-09 08:47:09
+
+[08:47:09]GetLastError
+[08:47:09]USBName:G, idex:6, attachUSB_state:1
+[08:47:10]NULL
+[08:47:10]GetLastError
+[08:47:10]USBName:G, idex:6, attachUSB_state:1
+[08:47:11]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-12-09 09:27:32
+
+[09:27:32]GetLastError
+[09:27:32]USBName:G, idex:6, attachUSB_state:1
+[09:27:33]NULL
+[09:27:33]GetLastError
+[09:27:33]USBName:G, idex:6, attachUSB_state:1
+[09:27:34]NULL

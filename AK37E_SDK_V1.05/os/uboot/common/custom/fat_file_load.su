@@ -1,0 +1,3 @@
+fat_file_load.c:85:12:get_conf_info	16	static
+fat_file_load.c:52:8:fat32_upgrade_check	264	static
+fat_file_load.c:149:8:tftpboot_upgrade_check	200	static

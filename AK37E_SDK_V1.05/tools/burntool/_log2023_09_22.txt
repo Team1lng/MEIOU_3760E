@@ -1,0 +1,6 @@
+
+
+=============Transc Information =============
+Print Time: 2023-09-22 15:21:18
+
+[15:21:18]CreateFile hHubDevice null 

@@ -1,0 +1,16 @@
+
+
+=============Transc Information =============
+Print Time: 2024-10-26 08:55:28
+
+[08:55:28]GetLastError
+[08:55:28]USBName:F, idex:5, attachUSB_state:1
+[08:55:29]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-10-26 14:18:54
+
+[14:18:54]GetLastError
+[14:18:54]USBName:F, idex:5, attachUSB_state:1
+[14:18:55]NULL

@@ -1,0 +1,33 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2024-4-16 09:44:48
+
+ss g_udisk_burnnum: 0
+[09:44:48]work number = 1
+[09:44:48]burn_mode = 1, eMedium = 1
+[09:44:48]Burn_SetRamParam fail
+[09:44:48]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-4-16 09:45:03
+
+ss g_udisk_burnnum: 0
+[09:45:03]work number = 1
+[09:45:03]burn_mode = 1, eMedium = 1
+[09:45:03]Burn_SetRamParam fail
+[09:45:03]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-4-16 09:45:19
+
+ss g_udisk_burnnum: 0
+[09:45:19]work number = 1
+[09:45:19]burn_mode = 1, eMedium = 1
+[09:45:20]Burn_SetRamParam fail
+[09:45:20]close file
+
+
+

@@ -1,0 +1,213 @@
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 10:18:54
+
+[10:18:54]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:18:54]GetLastError
+[10:18:54]USBName:I, idex:8, attachUSB_state:1
+[10:18:55]NULL
+[10:18:55]GetLastError
+[10:18:55]USBName:I, idex:8, attachUSB_state:1
+[10:18:56]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 10:20:50
+
+[10:20:50]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:23:21]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:23:21]GetLastError
+[10:23:21]USBName:I, idex:8, attachUSB_state:1
+[10:23:22]NULL
+[10:23:22]GetLastError
+[10:23:22]USBName:I, idex:8, attachUSB_state:1
+[10:23:23]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 10:25:01
+
+[10:25:01]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:26:46]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:26:46]GetLastError
+[10:26:46]USBName:I, idex:8, attachUSB_state:1
+[10:26:47]NULL
+[10:26:47]GetLastError
+[10:26:47]USBName:I, idex:8, attachUSB_state:1
+[10:26:48]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 10:47:37
+
+[10:47:37]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:50:02]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:50:02]GetLastError
+[10:50:02]USBName:I, idex:8, attachUSB_state:1
+[10:50:03]NULL
+[10:50:03]GetLastError
+[10:50:03]USBName:I, idex:8, attachUSB_state:1
+[10:50:04]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 10:51:45
+
+[10:51:45]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:53:11]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:53:11]GetLastError
+[10:53:11]USBName:I, idex:8, attachUSB_state:1
+[10:53:12]NULL
+[10:53:12]GetLastError
+[10:53:12]USBName:I, idex:8, attachUSB_state:1
+[10:53:13]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 10:55:08
+
+[10:55:08]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[11:14:08]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[11:14:08]GetLastError
+[11:14:08]USBName:I, idex:8, attachUSB_state:1
+[11:14:09]NULL
+[11:14:09]GetLastError
+[11:14:09]USBName:I, idex:8, attachUSB_state:1
+[11:14:10]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 11:15:49
+
+[11:15:49]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[11:46:28]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[11:46:28]GetLastError
+[11:46:28]USBName:I, idex:8, attachUSB_state:1
+[11:46:29]NULL
+[11:46:29]GetLastError
+[11:46:29]USBName:I, idex:8, attachUSB_state:1
+[11:46:30]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 11:48:08
+
+[11:48:09]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[11:52:02]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[11:52:02]GetLastError
+[11:52:02]USBName:I, idex:8, attachUSB_state:1
+[11:52:03]NULL
+[11:52:03]GetLastError
+[11:52:03]USBName:I, idex:8, attachUSB_state:1
+[11:52:04]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 11:53:39
+
+[11:53:39]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[11:55:10]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[11:55:10]GetLastError
+[11:55:10]USBName:I, idex:8, attachUSB_state:1
+[11:55:11]NULL
+[11:55:11]GetLastError
+[11:55:11]USBName:I, idex:8, attachUSB_state:1
+[11:55:12]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 11:56:47
+
+[11:56:47]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[12:01:02]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[12:01:03]GetLastError
+[12:01:03]USBName:I, idex:8, attachUSB_state:1
+[12:01:04]NULL
+[12:01:04]GetLastError
+[12:01:04]USBName:I, idex:8, attachUSB_state:1
+[12:01:05]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 12:02:40
+
+[12:02:40]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[13:31:23]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[13:31:24]GetLastError
+[13:31:24]USBName:I, idex:8, attachUSB_state:1
+[13:31:25]NULL
+[13:31:25]GetLastError
+[13:31:25]USBName:I, idex:8, attachUSB_state:1
+[13:31:26]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 13:33:02
+
+[13:33:02]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[13:35:28]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[13:35:29]GetLastError
+[13:35:29]USBName:I, idex:8, attachUSB_state:1
+[13:35:30]NULL
+[13:35:30]GetLastError
+[13:35:30]USBName:I, idex:8, attachUSB_state:1
+[13:35:31]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 13:37:06
+
+[13:37:06]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[13:39:14]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[13:39:15]GetLastError
+[13:39:15]USBName:I, idex:8, attachUSB_state:1
+[13:39:16]NULL
+[13:39:16]GetLastError
+[13:39:16]USBName:I, idex:8, attachUSB_state:1
+[13:39:17]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 13:40:51
+
+[13:40:51]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[14:11:15]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[14:11:15]GetLastError
+[14:11:15]USBName:I, idex:8, attachUSB_state:1
+[14:11:16]NULL
+[14:11:16]GetLastError
+[14:11:16]USBName:I, idex:8, attachUSB_state:1
+[14:11:17]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 14:13:03
+
+[14:13:03]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[14:28:31]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[14:28:31]GetLastError
+[14:28:31]USBName:I, idex:8, attachUSB_state:1
+[14:28:32]NULL
+[14:28:32]GetLastError
+[14:28:32]USBName:I, idex:8, attachUSB_state:1
+[14:28:33]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 14:30:09
+
+[14:30:09]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[14:39:57]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[14:39:57]GetLastError
+[14:39:57]USBName:I, idex:8, attachUSB_state:1
+[14:39:58]NULL
+[14:39:58]GetLastError
+[14:39:58]USBName:I, idex:8, attachUSB_state:1
+[14:39:59]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-09-25 14:41:34
+
+[14:41:34]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid

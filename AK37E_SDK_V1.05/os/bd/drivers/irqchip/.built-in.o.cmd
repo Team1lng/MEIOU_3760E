@@ -1,0 +1,1 @@
+cmd_drivers/irqchip/built-in.o :=  /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL   -r -o drivers/irqchip/built-in.o drivers/irqchip/irqchip.o drivers/irqchip/ak_irq.o 

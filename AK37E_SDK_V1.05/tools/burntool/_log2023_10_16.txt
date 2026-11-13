@@ -1,0 +1,43 @@
+
+
+=============Transc Information =============
+Print Time: 2023-10-16 10:27:59
+
+[10:27:59]BT_DL_FILE_DOWNLOAD_FAIL fail
+[10:28:03]BT_GetRamValue num_idex
+[10:28:03]BT_GetRamValue num_idex
+[10:28:03]BT_GetRamValue num_idex
+[10:28:03]BT_GetRamValue num_idex
+[10:28:03]BT_GetRamValue num_idex
+[10:28:03]BT_GetRamValue num_idex
+[10:28:03]BT_GetRamValue num_idex
+[10:28:03]BT_GetRamValue num_idex
+[10:28:03]BT_GetRamValue num_idex
+[10:28:03]BT_GetRamValue num_idex
+[10:28:03]BT_GetRamValue fail
+[10:28:03]memcmp fail
+
+
+=============Transc Information =============
+Print Time: 2023-10-16 10:28:07
+
+[10:28:07]BT_DL_FILE_DOWNLOAD_FAIL fail
+[10:28:07]BT_GetRamValue num_idex
+[10:28:07]BT_GetRamValue num_idex
+[10:28:07]BT_GetRamValue num_idex
+[10:28:07]BT_GetRamValue num_idex
+[10:28:07]BT_GetRamValue num_idex
+[10:28:07]BT_GetRamValue num_idex
+[10:28:07]BT_GetRamValue num_idex
+[10:28:07]BT_GetRamValue num_idex
+[10:28:07]BT_GetRamValue num_idex
+[10:28:07]BT_GetRamValue num_idex
+[10:28:07]BT_GetRamValue fail
+[10:28:07]memcmp fail
+
+
+=============Transc Information =============
+Print Time: 2023-10-16 10:28:26
+
+[10:28:26]GetPNPDriverIDByDriverName: res
+[10:28:26]BT_DriverName_IsCurrentFlag: GetPNPDriverIDByDriverName fail

@@ -1,0 +1,46 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2022-8-17 10:06:11
+
+ss g_udisk_burnnum: 0
+[10:06:11]work number = 1
+[10:06:11]burn_mode = 1, eMedium = 1
+[10:06:11]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[10:06:11]download producer fail.
+[10:06:11]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2022-8-17 10:06:26
+
+ss g_udisk_burnnum: 0
+[10:06:27]work number = 1
+[10:06:27]burn_mode = 1, eMedium = 1
+[10:06:27]Burn_SetRamParam fail
+[10:06:27]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2022-8-17 10:08:13
+
+ss g_udisk_burnnum: 0
+[10:08:13]work number = 1
+[10:08:13]burn_mode = 1, eMedium = 1
+[10:08:13]Burn_SetRamParam fail
+[10:08:13]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2022-8-17 10:08:50
+
+ss g_udisk_burnnum: 0
+[10:08:50]work number = 1
+[10:08:50]burn_mode = 1, eMedium = 1
+[10:08:50]Burn_SetRamParam fail
+[10:08:50]close file
+
+
+

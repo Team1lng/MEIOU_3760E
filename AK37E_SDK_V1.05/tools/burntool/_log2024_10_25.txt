@@ -1,0 +1,88 @@
+
+
+=============Transc Information =============
+Print Time: 2024-10-25 10:52:19
+
+[10:52:19]GetLastError
+[10:52:19]USBName:F, idex:5, attachUSB_state:1
+[10:52:20]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-10-25 10:58:44
+
+[10:58:44]GetLastError
+[10:58:44]USBName:F, idex:5, attachUSB_state:1
+[10:58:45]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-10-25 11:02:29
+
+[11:02:29]GetLastError
+[11:02:29]USBName:F, idex:5, attachUSB_state:1
+[11:02:30]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-10-25 11:07:09
+
+[11:07:09]GetLastError
+[11:07:09]USBName:F, idex:5, attachUSB_state:1
+[11:07:10]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-10-25 16:00:54
+
+[16:00:54]GetLastError
+[16:00:54]USBName:F, idex:5, attachUSB_state:1
+[16:00:55]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-10-25 16:05:09
+
+[16:05:09]GetLastError
+[16:05:09]USBName:F, idex:5, attachUSB_state:1
+[16:05:10]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-10-25 16:05:30
+
+[16:05:30]GetLastError
+[16:05:30]USBName:F, idex:5, attachUSB_state:1
+[16:05:31]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-10-25 16:25:05
+
+[16:25:05]GetLastError
+[16:25:05]USBName:F, idex:5, attachUSB_state:1
+[16:25:06]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-10-25 18:28:06
+
+[18:28:06]GetLastError
+[18:28:06]USBName:F, idex:5, attachUSB_state:1
+[18:28:07]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-10-25 18:33:27
+
+[18:33:27]GetLastError
+[18:33:27]USBName:F, idex:5, attachUSB_state:1
+[18:33:28]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-10-25 18:38:03
+
+[18:38:03]GetLastError
+[18:38:03]USBName:F, idex:5, attachUSB_state:1
+[18:38:04]NULL

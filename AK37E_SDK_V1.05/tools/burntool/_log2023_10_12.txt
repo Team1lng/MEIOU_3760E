@@ -1,0 +1,15 @@
+
+
+=============Transc Information =============
+Print Time: 2023-10-12 08:23:16
+
+[08:23:16]GetPNPDriverIDByDriverName: res
+[08:23:16]BT_DriverName_IsCurrentFlag: GetPNPDriverIDByDriverName fail
+[08:23:18]87
+[08:23:18]deviceDesc NULL 
+
+
+=============Transc Information =============
+Print Time: 2023-10-12 15:38:52
+
+[15:38:52]CreateFile hHubDevice null 

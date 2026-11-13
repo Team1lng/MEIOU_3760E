@@ -1,0 +1,81 @@
+
+
+=============Transc Information =============
+Print Time: 2024-01-12 10:18:30
+
+[10:18:30]BT_CommitTransc 04 fail
+[10:18:30]BT_DownLoadData  fail
+
+
+=============Transc Information =============
+Print Time: 2024-01-12 10:40:53
+
+[10:40:53]BT_CommitTransc 04 fail
+[10:40:53]BT_DownLoadData  fail
+
+
+=============Transc Information =============
+Print Time: 2024-01-12 10:45:03
+
+[10:45:03]BT_CommitTransc 04 fail
+[10:45:03]BT_DownLoadData  fail
+
+
+=============Transc Information =============
+Print Time: 2024-01-12 13:29:33
+
+[13:29:33]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+
+
+=============Transc Information =============
+Print Time: 2024-01-12 14:33:48
+
+[14:33:48]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+
+
+=============Transc Information =============
+Print Time: 2024-01-12 14:35:21
+
+[14:35:21]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+
+
+=============Transc Information =============
+Print Time: 2024-01-12 15:03:56
+
+[15:03:56]BT_CommitTransc fail
+[15:03:56]BT_DownLoadCmd fail
+[15:03:56]BT_DownLoad fail
+
+
+=============Transc Information =============
+Print Time: 2024-01-12 15:19:24
+
+[15:19:24]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+
+
+=============Transc Information =============
+Print Time: 2024-01-12 15:27:37
+
+[15:27:37]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+
+
+=============Transc Information =============
+Print Time: 2024-01-12 15:30:13
+
+[15:30:13]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[15:39:16]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[15:39:16]GetLastError
+[15:39:16]USBName:H, idex:7, attachUSB_state:1
+[15:39:17]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-01-12 15:41:13
+
+[15:41:13]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+
+
+=============Transc Information =============
+Print Time: 2024-01-12 19:46:06
+
+[19:46:06]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid

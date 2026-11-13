@@ -1,0 +1,9 @@
+
+
+=============Transc Information =============
+Print Time: 2024-04-28 14:13:18
+
+[14:13:18]87
+[14:13:18]deviceDesc NULL 
+[14:14:14]87
+[14:14:14]deviceDesc NULL 

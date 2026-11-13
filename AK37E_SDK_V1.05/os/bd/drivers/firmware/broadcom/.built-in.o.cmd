@@ -1,0 +1,1 @@
+cmd_drivers/firmware/broadcom/built-in.o :=  rm -f drivers/firmware/broadcom/built-in.o; /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ar rcsD drivers/firmware/broadcom/built-in.o

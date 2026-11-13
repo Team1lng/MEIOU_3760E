@@ -1,0 +1,28 @@
+
+
+=============Transc Information =============
+Print Time: 2023-10-07 08:33:00
+
+[08:33:00]CreateFile hHubDevice null 
+[08:38:34]CreateFile hHubDevice null 
+[08:41:02]CreateFile hHubDevice null 
+[09:00:12]GetLastError
+[09:00:12]USBName:E, idex:4, attachUSB_state:1
+[09:00:13]NULL
+[09:01:18]BT_CommitTransc fail
+[09:01:18]BT_DownLoadCmd fail
+[09:01:18]BT_DownLoad fail
+
+
+=============Transc Information =============
+Print Time: 2023-10-07 09:02:43
+
+[09:02:43]GetLastError
+[09:02:43]USBName:E, idex:4, attachUSB_state:1
+[09:02:44]NULL
+
+
+=============Transc Information =============
+Print Time: 2023-10-07 09:04:39
+
+[09:04:39]BT_DriverName_IsCurrentFlag: GetPNPDriverIDByDriverName fail

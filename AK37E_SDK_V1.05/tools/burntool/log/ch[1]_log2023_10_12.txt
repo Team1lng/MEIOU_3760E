@@ -1,0 +1,53 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2023-10-12 08:23:51
+
+ss g_udisk_burnnum: 0
+[08:23:51]work number = 1
+[08:23:51]burn_mode = 1, eMedium = 1
+[08:23:51]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[08:25:32]end work number = 0
+[08:25:32]++Burn success++
+[08:25:32]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2023-10-12 09:36:26
+
+ss g_udisk_burnnum: 0
+[09:36:26]work number = 1
+[09:36:26]burn_mode = 1, eMedium = 1
+[09:36:26]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[09:38:06]end work number = 0
+[09:38:06]++Burn success++
+[09:38:06]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2023-10-12 09:38:21
+
+ss g_udisk_burnnum: 0
+[09:38:22]work number = 1
+[09:38:22]burn_mode = 1, eMedium = 1
+[09:38:22]Burn_GetRegValue fail
+[09:38:22]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2023-10-12 15:43:47
+
+ss g_udisk_burnnum: 0
+[15:43:47]work number = 1
+[15:43:47]burn_mode = 1, eMedium = 1
+[15:43:47]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[15:45:21]end work number = 0
+[15:45:21]++Burn success++
+[15:45:21]close file
+
+
+

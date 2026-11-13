@@ -1,0 +1,1 @@
+cmd_fs/nfs/nfs.ko := /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL -r  -T /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/os/kernel/scripts/module-common.lds --build-id  -o fs/nfs/nfs.ko fs/nfs/nfs.o fs/nfs/nfs.mod.o

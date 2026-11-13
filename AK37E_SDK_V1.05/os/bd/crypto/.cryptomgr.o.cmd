@@ -1,0 +1,1 @@
+cmd_crypto/cryptomgr.o := /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL   -r -o crypto/cryptomgr.o crypto/algboss.o crypto/testmgr.o 

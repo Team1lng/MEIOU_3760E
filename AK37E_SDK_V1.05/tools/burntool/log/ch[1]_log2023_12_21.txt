@@ -1,0 +1,56 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2023-12-21 10:20:33
+
+ss g_udisk_burnnum: 0
+[10:20:33]work number = 1
+[10:20:33]burn_mode = 1, eMedium = 1
+[10:20:33]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[10:22:06]end work number = 0
+[10:22:06]++Burn success++
+[10:22:06]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2023-12-21 10:32:40
+
+ss g_udisk_burnnum: 0
+[10:32:40]work number = 1
+[10:32:40]burn_mode = 1, eMedium = 1
+[10:32:40]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[10:34:26]end work number = 0
+[10:34:26]++Burn success++
+[10:34:26]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2023-12-21 14:03:59
+
+ss g_udisk_burnnum: 0
+[14:03:59]work number = 1
+[14:03:59]burn_mode = 1, eMedium = 1
+[14:03:59]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[14:05:34]end work number = 0
+[14:05:34]++Burn success++
+[14:05:34]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2023-12-21 14:14:35
+
+ss g_udisk_burnnum: 0
+[14:14:35]work number = 1
+[14:14:35]burn_mode = 1, eMedium = 1
+[14:14:35]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[14:16:09]end work number = 0
+[14:16:09]++Burn success++
+[14:16:09]close file
+
+
+

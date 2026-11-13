@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/omap2/dss/built-in.o :=  rm -f drivers/video/fbdev/omap2/dss/built-in.o; /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ar rcsD drivers/video/fbdev/omap2/dss/built-in.o

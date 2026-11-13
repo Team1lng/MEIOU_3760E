@@ -1,0 +1,9 @@
+memsize.o: memsize.c \
+ /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/os/uboot/include/config.h \
+ /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/os/uboot/include/config_cmd_defaults.h \
+ /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/os/uboot/include/config_defaults.h \
+ /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/os/uboot/include/configs/anycloud_ak37e.h \
+ /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/os/uboot/include/configs/ak_board.h \
+ /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/os/uboot/include/asm/config.h \
+ /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/os/uboot/include/config_fallbacks.h \
+ /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/os/uboot/include/config_uncmd_spl.h

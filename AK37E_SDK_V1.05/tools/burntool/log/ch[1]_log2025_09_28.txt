@@ -1,0 +1,66 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2025-9-28 16:33:46
+
+ss g_udisk_burnnum: 0
+[16:33:46]work number = 1
+[16:33:46]burn_mode = 1, eMedium = 1
+[16:33:46]Burn_GetRegValue fail
+[16:33:46]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-9-28 16:33:57
+
+ss g_udisk_burnnum: 0
+[16:33:57]work number = 1
+[16:33:57]burn_mode = 1, eMedium = 1
+[16:33:57]Burn_GetRegValue fail
+[16:33:57]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-9-28 16:34:08
+
+ss g_udisk_burnnum: 0
+[16:34:08]work number = 1
+[16:34:08]burn_mode = 1, eMedium = 1
+[16:34:08]Burn_GetRegValue fail
+[16:34:08]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-9-28 16:35:51
+
+ss g_udisk_burnnum: 0
+[16:35:51]work number = 1
+[16:35:51]burn_mode = 1, eMedium = 1
+[16:35:51]Burn_GetRegValue fail
+[16:35:51]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-9-28 16:37:23
+
+ss g_udisk_burnnum: 0
+[16:37:23]work number = 1
+[16:37:23]burn_mode = 1, eMedium = 1
+[16:37:23]Burn_GetRegValue fail
+[16:37:23]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-9-28 16:39:08
+
+ss g_udisk_burnnum: 0
+[16:39:08]work number = 1
+[16:39:08]burn_mode = 1, eMedium = 1
+[16:39:08]Burn_GetRegValue fail
+[16:39:08]close file
+
+
+

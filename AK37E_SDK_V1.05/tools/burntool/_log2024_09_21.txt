@@ -1,0 +1,155 @@
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 10:41:43
+
+[10:41:43]GetLastError
+[10:41:43]USBName:E, idex:4, attachUSB_state:1
+[10:41:44]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 10:42:04
+
+[10:42:04]GetLastError
+[10:42:04]USBName:E, idex:4, attachUSB_state:1
+[10:42:06]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 10:44:05
+
+[10:44:05]GetLastError
+[10:44:05]USBName:E, idex:4, attachUSB_state:1
+[10:44:06]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 11:06:55
+
+[11:06:55]GetLastError
+[11:06:55]USBName:E, idex:4, attachUSB_state:1
+[11:06:56]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 11:09:35
+
+[11:09:35]GetLastError
+[11:09:35]USBName:E, idex:4, attachUSB_state:1
+[11:09:36]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 11:23:33
+
+[11:23:33]GetLastError
+[11:23:33]USBName:E, idex:4, attachUSB_state:1
+[11:23:34]NULL
+[11:23:34]BT_AttachUSB: EnumerateHostControllers hostRet <= 0
+[11:23:46]GetLastError
+[11:23:46]USBName:E, idex:4, attachUSB_state:1
+[11:23:47]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 11:25:52
+
+[11:25:52]GetLastError
+[11:25:52]USBName:E, idex:4, attachUSB_state:1
+[11:25:53]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 11:26:03
+
+[11:26:03]GetLastError
+[11:26:03]USBName:E, idex:4, attachUSB_state:1
+[11:26:04]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 13:46:17
+
+[13:46:17]GetLastError
+[13:46:17]USBName:E, idex:4, attachUSB_state:1
+[13:46:18]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 13:46:37
+
+[13:46:37]GetLastError
+[13:46:37]USBName:E, idex:4, attachUSB_state:1
+[13:46:38]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 14:09:37
+
+[14:09:37]GetLastError
+[14:09:37]USBName:E, idex:4, attachUSB_state:1
+[14:09:38]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 14:13:00
+
+[14:13:00]GetLastError
+[14:13:00]USBName:E, idex:4, attachUSB_state:1
+[14:13:01]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 14:26:04
+
+[14:26:04]GetLastError
+[14:26:04]USBName:E, idex:4, attachUSB_state:1
+[14:26:05]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 14:38:35
+
+[14:38:35]GetLastError
+[14:38:35]USBName:E, idex:4, attachUSB_state:1
+[14:38:36]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 14:39:55
+
+[14:39:55]GetLastError
+[14:39:55]USBName:E, idex:4, attachUSB_state:1
+[14:39:56]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 14:40:15
+
+[14:40:15]GetLastError
+[14:40:15]USBName:E, idex:4, attachUSB_state:1
+[14:40:16]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 14:41:18
+
+[14:41:18]GetLastError
+[14:41:18]USBName:E, idex:4, attachUSB_state:1
+[14:41:19]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 14:43:25
+
+[14:43:25]GetLastError
+[14:43:25]USBName:E, idex:4, attachUSB_state:1
+[14:43:26]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-21 14:56:53
+
+[14:56:53]87
+[14:56:53]deviceDesc NULL 

@@ -1,0 +1,1 @@
+cmd_drivers/net/ppp/ppp_async.ko := /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL -r  -T /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/os/kernel/scripts/module-common.lds --build-id  -o drivers/net/ppp/ppp_async.ko drivers/net/ppp/ppp_async.o drivers/net/ppp/ppp_async.mod.o

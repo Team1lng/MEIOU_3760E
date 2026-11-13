@@ -1,0 +1,2 @@
+/home/share/two_wire_project/MEIOU/SDK/AK37E_SDK_V1.05/os/driver_src/ak_lcd/ak_fb.ko
+/home/share/two_wire_project/MEIOU/SDK/AK37E_SDK_V1.05/os/driver_src/ak_lcd/ak_fb.o

@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/function/usb_f_mass_storage.o := /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL   -r -o drivers/usb/gadget/function/usb_f_mass_storage.o drivers/usb/gadget/function/f_mass_storage.o drivers/usb/gadget/function/storage_common.o 

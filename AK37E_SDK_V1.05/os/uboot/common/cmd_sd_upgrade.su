@@ -1,0 +1,6 @@
+cmd_sd_upgrade.c:317:13:upgrade_load_memory	88	static
+cmd_sd_upgrade.c:39:20:strrstr	24	static
+cmd_sd_upgrade.c:62:12:upgrade_draw_rect	32	static
+cmd_sd_upgrade.c:123:12:upgrade_file_info_pares.constprop	24	static
+cmd_sd_upgrade.c:261:12:upgrade_img_head_parse	1056	static
+cmd_sd_upgrade.c:355:12:do_sd_upgrade	168	static

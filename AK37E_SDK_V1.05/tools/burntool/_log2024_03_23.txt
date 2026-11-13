@@ -1,0 +1,26 @@
+
+
+=============Transc Information =============
+Print Time: 2024-03-23 11:44:13
+
+[11:44:13]GetLastError
+[11:44:13]USBName:E, idex:4, attachUSB_state:1
+[11:44:14]NULL
+[11:44:14]GetLastError
+[11:44:14]USBName:E, idex:4, attachUSB_state:1
+[11:44:15]NULL
+[11:44:15]GetLastError
+[11:44:15]USBName:E, idex:4, attachUSB_state:1
+[11:44:16]NULL
+[11:44:16]BT_AttachUSB: EnumerateHostControllers hostRet <= 0
+
+
+=============Transc Information =============
+Print Time: 2024-03-23 14:57:52
+
+[14:57:52]GetLastError
+[14:57:52]USBName:E, idex:4, attachUSB_state:1
+[14:57:53]NULL
+[14:57:53]GetLastError
+[14:57:53]USBName:E, idex:4, attachUSB_state:1
+[14:57:54]NULL

@@ -1,0 +1,18 @@
+
+
+=============Transc Information =============
+Print Time: 2023-09-28 08:41:38
+
+[08:41:38]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:44:41]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:44:41]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:44:44]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:44:44]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:44:44]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:45:45]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:46:56]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:47:50]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:50:51]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:51:28]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:51:31]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[08:51:31]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid

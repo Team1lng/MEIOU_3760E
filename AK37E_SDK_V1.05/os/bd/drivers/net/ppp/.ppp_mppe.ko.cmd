@@ -1,0 +1,1 @@
+cmd_drivers/net/ppp/ppp_mppe.ko := /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL -r  -T /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/os/kernel/scripts/module-common.lds --build-id  -o drivers/net/ppp/ppp_mppe.ko drivers/net/ppp/ppp_mppe.o drivers/net/ppp/ppp_mppe.mod.o

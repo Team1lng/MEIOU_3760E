@@ -1,0 +1,14 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2023-6-12 21:04:40
+
+ss g_udisk_burnnum: 0
+[21:04:40]work number = 1
+[21:04:40]burn_mode = 1, eMedium = 1
+[21:04:40]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[21:06:13]end work number = 0
+[21:06:13]++Burn success++
+[21:06:13]close file
+
+
+

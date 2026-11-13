@@ -1,0 +1,1 @@
+cmd_net/bridge/br_netfilter.o := /home/leo/workspace/MEIOU/SDK/AK37E_SDK_V1.05/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ld -EL   -r -o net/bridge/br_netfilter.o net/bridge/br_netfilter_hooks.o 

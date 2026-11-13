@@ -1,0 +1,8 @@
+
+
+=============Transc Information =============
+Print Time: 2023-11-07 19:43:52
+
+[19:43:52]GetLastError
+[19:43:52]USBName:E, idex:4, attachUSB_state:1
+[19:43:53]NULL

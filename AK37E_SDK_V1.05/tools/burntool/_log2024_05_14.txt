@@ -1,0 +1,39 @@
+
+
+=============Transc Information =============
+Print Time: 2024-05-14 08:55:20
+
+[08:55:20]GetLastError
+[08:55:20]USBName:E, idex:4, attachUSB_state:1
+[08:55:21]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-05-14 09:08:59
+
+[09:08:59]GetLastError
+[09:08:59]USBName:E, idex:4, attachUSB_state:1
+[09:09:00]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-05-14 11:49:57
+
+[11:49:57]GetLastError
+[11:49:57]USBName:F, idex:5, attachUSB_state:1
+[11:49:58]NULL
+[11:49:58]GetLastError
+[11:49:58]USBName:F, idex:5, attachUSB_state:1
+[11:49:59]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-05-14 11:52:11
+
+[11:52:11]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[11:59:53]GetLastError
+[11:59:53]USBName:F, idex:5, attachUSB_state:1
+[11:59:54]NULL
+[11:59:54]GetLastError
+[11:59:54]USBName:F, idex:5, attachUSB_state:1
+[11:59:55]NULL

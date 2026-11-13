@@ -1,0 +1,31 @@
+
+
+=============Transc Information =============
+Print Time: 2025-05-27 09:49:08
+
+[09:49:08]CreateFile hHubDevice null 
+
+
+=============Transc Information =============
+Print Time: 2025-05-27 10:19:18
+
+[10:19:18]CreateFile hHubDevice null 
+
+
+=============Transc Information =============
+Print Time: 2025-05-27 10:53:47
+
+[10:53:47]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:53:47]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:55:22]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:55:22]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:55:23]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:55:23]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:55:36]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:55:36]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:55:37]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:55:37]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:55:57]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:55:57]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:55:57]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[10:55:57]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid

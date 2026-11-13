@@ -1,0 +1,5 @@
+cmd_sf.c:124:12:do_spi_flash_probe	32	static
+cmd_sf.c:721:13:show_time	48	static
+cmd_sf.c:735:13:spi_test_next_stage	16	static
+cmd_sf.c:982:12:do_spi_flash	88	static
+cmd_sf.c:1056:5:spi_flash_get_size	8	static

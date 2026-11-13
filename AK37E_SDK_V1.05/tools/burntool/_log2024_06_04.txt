@@ -1,0 +1,27 @@
+
+
+=============Transc Information =============
+Print Time: 2024-06-04 17:22:07
+
+[17:22:07]87
+[17:22:07]deviceDesc NULL 
+[17:22:07]GetLastError
+[17:22:07]USBName:E, idex:4, attachUSB_state:1
+[17:22:08]NULL
+[17:22:08]GetLastError
+[17:22:08]USBName:E, idex:4, attachUSB_state:1
+[17:22:09]NULL
+[17:22:10]memcmp fail
+
+
+=============Transc Information =============
+Print Time: 2024-06-04 17:23:10
+
+[17:23:10]87
+[17:23:10]deviceDesc NULL 
+[17:23:10]GetLastError
+[17:23:10]USBName:E, idex:4, attachUSB_state:1
+[17:23:11]NULL
+[17:23:11]GetLastError
+[17:23:11]USBName:E, idex:4, attachUSB_state:1
+[17:23:12]NULL
